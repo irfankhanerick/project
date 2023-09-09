@@ -1,2 +1,1 @@
-# project
-mintclassics
+project tittle = Analyze Data in a Model Car Database with MySQL Workbench
